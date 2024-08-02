@@ -12,7 +12,7 @@ date: 2024-08-02
 
 Փորձի ընթացքը
 
-!(alt tex) (Isolated.png " Title")
+!(Շան նկար) (https://github.com/marixachatryan2121/improved-guacamole/blob/main/_posts/golden-retriever-2.jpg
 
 
 - [ ] Նկարագրել փորձի ընթացքը
